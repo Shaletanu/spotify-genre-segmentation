@@ -8,7 +8,7 @@
 Grouping Spotify songs by how they sound with **K-Means clustering**, predicting their genre with a
 **Random Forest Classifier**, and using both to build a **song recommendation system**.
 
-📄 **[View the full project report](https://YOUR-USERNAME.github.io/spotify-genre-segmentation/Spotify_Project_Report.html)**  ·
+📄 **[View the full project report](https://Shaletanu.github.io/spotify-genre-segmentation/Spotify_Project_Report.html)**  ·
 📓 **[Open the notebook](Spotify_RandomForest.ipynb)**
 
 ---
